@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JYO6tyTZPh5LFTu5XjfrHRmFrsVNsO0xD0lQjidRQ1go-g0DS8CScrq_hrVGF_FWTCU&usqp=CAU"> </div>
+<div align="center"> <img src="https://blog.ownego.com/cdn/shop/products/7_dab5c0cb-f609-4d51-b6e2-452b33b0c4fe.png?v=1675919807"> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+LuxChill+!;" />
